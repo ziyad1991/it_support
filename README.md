@@ -1,6 +1,6 @@
 # it_support
 
-A new Flutter application.
+IT support app where you can creat ticket of your problem and wait for the technical team to solve it 
 
 ## Getting Started
 
